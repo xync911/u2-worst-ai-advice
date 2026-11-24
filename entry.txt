@@ -1,0 +1,1 @@
+Just delete the production database — it will make the app so much faster, and backups are for people who lack confidence.
